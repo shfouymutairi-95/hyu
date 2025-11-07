@@ -211,7 +211,7 @@ const App: React.FC = () => {
 
       <footer className="absolute bottom-4 text-center w-full">
         <p className="text-gray-600 dark:text-gray-400 text-sm">
-          Made with 🤍 by Shifaa
+          Made with 🤍 by Shfouya
         </p>
       </footer>
     </div>
