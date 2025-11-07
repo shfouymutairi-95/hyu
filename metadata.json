@@ -1,0 +1,5 @@
+{
+  "name": "Hide Your User (HYU)",
+  "description": "An interactive web app that cleans Instagram links by removing tracking parameters (?igsh, ?utm, etc.), helping to protect user privacy.",
+  "requestFramePermissions": []
+}
