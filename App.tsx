@@ -209,10 +209,10 @@ const App: React.FC = () => {
         </div>
       )}
 
-      <footer className="absolute bottom-4 text-center w-full">
-        <p className="text-gray-600 dark:text-gray-400 text-sm">
-          Made with 🤍 by Shfouya
-        </p>
+      <footer className="absolute bottom-4 text-center w-<div className="text-gray-600 dark:text-gray-400 text-sm text-center mt-6">
+  <p>Made with 🤍 by Shfouya</p>
+  <p className="opacity-80 text-xs mt-1">Clean your link! 🧼✨</p>
+</div>
       </footer>
     </div>
   );
